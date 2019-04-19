@@ -1,6 +1,6 @@
 <template lang="pug">
 #app
-  img(src='https://enriquechamaya.github.io/TopArtists/dist/logo.png')
+  img(src='dist/logo.png')
   
   h1 PlatziMusic
 
