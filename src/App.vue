@@ -1,7 +1,7 @@
 <template lang="pug">
 #app
-  img(src='./assets/logo.png')
-
+  img(src='https://enriquechamaya.github.io/TopArtists/dist/logo.png')
+  
   h1 PlatziMusic
 
   select(v-model="selectedCountry")
